@@ -29,3 +29,5 @@ function lastSurvivor(letters, coords) {
   }
   return letters.join('')
 }
+
+// or
